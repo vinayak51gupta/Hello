@@ -9,7 +9,4 @@ public class hello {
 }
 class Bankacc{
     String name;
-    Bankacc(){
-        System.out.println("this is a constructor");
-    }
 }
